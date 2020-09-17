@@ -1,0 +1,21 @@
+Kaggle Test Data,
+sentiment,Count of sentiment
+negative,885
+neutral,1623
+positive,1026
+,
+,
+,
+,
+Reddit with Kaggle model,
+sentiment,Count of sentiment
+negative,1134
+neutral,3193
+positive,773
+,
+,
+Reddit with Vader Package,
+sentiment,Count of sentiment
+negative,1187
+neutral,2431
+positive,1482
